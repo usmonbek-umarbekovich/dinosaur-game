@@ -44,7 +44,7 @@ class Cactus {
   #createCactus() {
     const cactus = document.createElement('img');
     cactus.dataset.cactus = true;
-    cactus.src = '../img/cactus.png';
+    cactus.src = 'img/cactus.png';
     cactus.classList.add('cactus');
     customProperty.set(cactus, '--left', 100);
     this.#worldElem.append(cactus);
