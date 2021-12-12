@@ -20,8 +20,8 @@ body {
 
 .score {
   position: absolute;
-  font-size: 3vmin;
-  right: 1vmin;
+  font-size: 5vmin;
+  right: 5vmin;
   top: 1vmin;
 }
 
